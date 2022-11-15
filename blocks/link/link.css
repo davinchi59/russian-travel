@@ -1,4 +1,5 @@
 .link {
+	color: var(--text-white);
 	transition: opacity 0.1s ease;
 }
 
