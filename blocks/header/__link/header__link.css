@@ -5,6 +5,7 @@
 	font-weight: 400;
 	display: block;
 	padding-bottom: 6px;
+	text-decoration: none;
 }
 
 @media screen and (max-width: 767px) {
