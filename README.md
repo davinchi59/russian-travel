@@ -14,3 +14,7 @@
 2. CSS3
 3. БЭМ (nested)
 4. Адаптивность (Отзывчивая, flex & grid)
+
+### Ссылка на GitHub Pages
+
+# https://davinchi59.github.io/russian-travel/
